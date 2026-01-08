@@ -1,6 +1,6 @@
 # Cafe-SQL
 
-##Project Description
+## Project Description
 This project is a simple Cafe Management System created using MariaDB.
 It is used to manage customer details, table allocation, menu items, orders, and payment information.
 
@@ -9,12 +9,12 @@ The project is designed to understand:
 2.Primary Key and Foreign Key
 3.Basic SQL queries
 
-##Technologies Used
+## Technologies Used
 1.MariaDB
 2.SQL
 3.GitHub
 
-##Database Tables
+## Database Tables
 The database contains the following tables:
 1.customers – Customer details
 2.tables – Cafe table information
@@ -23,13 +23,13 @@ The database contains the following tables:
 5.order_details – Order item mapping
 6.payments – Payment details
 
-Concepts Used
+## Concepts Used
 1.Primary Key (PK)
 2.Foreign Key (FK)
 3.JOIN queries
 4.Aggregate functions
 
-##Sample Queries
+## Sample Queries
 This project includes basic SQL queries such as:
 1.SELECT
 2.WHERE
